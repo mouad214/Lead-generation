@@ -1,0 +1,5 @@
+{
+  "name": "LeadGen-Quinetra",
+  "description": "تطبيق توليد وادارة الليدز موجه للمشاريع المحلية (مخابز، مقاهي، خدمات) — يجمع بيانات، يأهل، ويسيفط للـCRM أو webhook.",
+  "requestFramePermissions": []
+}
